@@ -8,7 +8,6 @@ Just as we used *Phpmyadmin* for our past projects, we're gonna do the same here
 
 The important thing to remember when  discussing connecting our flask app to the MySQL database is that flask isn't really doing anything special here.  Just like we used php to connect to the database in the previous modules, we're using python.
 
-I wrote a python file that should make things easier. This will be explained later.
 
 
 ## Installation of mysql flask module
