@@ -17,4 +17,4 @@ I wrote a python file that should make things easier. This will be explained lat
 3. run `sudo yum install python3-devel`
 4. run `pip3 install flask_mysqldb`
 
-## Then, see the example for use
+*Then, see the example for use*
